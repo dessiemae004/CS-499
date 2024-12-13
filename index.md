@@ -18,7 +18,30 @@ Databases was the final category that I made an enhancement for Quality Closet. 
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/qfSqxkA7Odg/0.jpg)](https://www.youtube.com/watch?v=qfSqxkA7Odg)
 
-# Course Outcomess
+# Course Outcomes
+
+Course Outcome 1: Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision making in the field of computer science
+
+-    This course outcome was completed in the Software Design and Engineering category. For this course outcome it was completed by making the website for a more diverse audience. Since the website was originally only created for desktop devices, but with the new enhancement it is now properly accessible on mobile devices.
+
+Course Outcome 2: Design, develop, and deliver professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts
+
+-    Code Review
+
+Course Outcome 3: Design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution, while managing the trade-offs involved in design choices
+
+-    This course outcome was completed in the Algorithms and Data Structure category. For this course outcome it was completed as I had designed and evaluated solutions for the problem that the data inputed by the user on the Contact page was not being interacted with and that the data was not being saved. From this problem I was then able to solve it being using the skills that I have learned through out the program. This showed my use of algorithmic principles, computer science practices, and standards appropriate to the solution.
+
+Course Outcome 4: Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals
+
+-    This course outcome was completed in all three categories, as each of the categories showed the ability to use well-founded and innovative techniques, skills and tools for the solution of the problem. As thay all delivered value and accomplish the specific goal that was in mind.
+-    For the Software Design and Engineering category this was done by using the skills learned throughout the program to the CSS file so that the website would be properly proportioned on both desktop and mobile devices.
+-    For the Algorithms and Data Structure category this was done by using the skills and tools I had learned throughout the program to enhance the JavaScript file as well as add in the server.php file. As these enhancements were made to the project to help with transfering the inputs from the Contact form to the database.
+-    For the Databases Category this was done by using the skills and tools learned throughout the program to create a MySQL database for the website. As the inputs fron the Contact form on the website was recieving data but did not save it anywhere. However, now with the enhancement I have solved this problem by successfully making a database for the information to be stored.
+
+Course Outcome 5: Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources
+
+-    This course outcome was completed in the Software Design and Engineering category. For this course outcome this was completed by ensuring security to the data while it is being transfered to the database. In the server.php file the code makes it so that the daya is inserted securely, ensuring that the proper database is being connected to. Also in the admin.php the database can be seen, but only when properly connecting to the server.
 
 # Enhancement One - Software Design and Enginerring
 
