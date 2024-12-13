@@ -26,7 +26,7 @@ Course Outcome 1: Employ strategies for building collaborative environments that
 
 Course Outcome 2: Design, develop, and deliver professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts
 
--    Code Review
+-    For this course outcome this was complteteed by the oral narration of the code review, that provided a overview of what my choosen artifact was and what I had planned for my enhancements. As I gave a oral indepth explanation on all three of the enhancements, while giving a visual on this by showning the code as well. All of the enhancements I had made were shown in the code review, showing that I was able to stick to my original plan and adapt the plan when needed. Just as I decided not to condense the CSS files, since they each had a purpose.
 
 Course Outcome 3: Design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution, while managing the trade-offs involved in design choices
 
