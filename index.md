@@ -16,7 +16,7 @@ Databases was the final category that I made an enhancement for Quality Closet. 
 
 # Code Review
 
-[![Watch the video](https://img.youtu.be/vi/qfSqxkA7Odg/0.jpg)](https://youtu.be/watch?v=qfSqxkA7Odg)
+[![Watch the video](https://img.youtube/vi/qfSqxkA7Odg/0.jpg)](https://youtu.be/watch?v=qfSqxkA7Odg)
 
 # Course Outcomess
 
