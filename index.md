@@ -18,8 +18,6 @@ Databases was the final category that I made an enhancement for Quality Closet. 
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/qfSqxkA7Odg/0.jpg)](https://www.youtube.com/watch?v=qfSqxkA7Odg)
 
-[![Watch the video](https://img.youtube/vi/qfSqxkA7Odg/0.jpg)](https://youtu.be/watch?v=qfSqxkA7Odg)
-
 # Course Outcomess
 
 # Enhancement One - Software Design and Enginerring
