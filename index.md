@@ -12,9 +12,11 @@ Software Design and Engineering was the first of the three categories that I mad
 
 Algorithms and Data Structure was the second of the three categories that I made an enhancement for Quality Closet. For this category I had made changes by adding to my JavaScript file and creating and adding code to a php file. As this enhancement was to transfer the inputs from the HTML form on the Contact page to the database, while keeping the data secure. When making my enhancements to both files, I did run into some challenges as I didn't have much experience with JavaScript or PHP. For this project I began to research and watch tutorial videos on examples transfering data using both JavaScript and PHP, while providing security. From the examples I was then able to successfully prepare some of the code for the database that would be created in the next enhancement.
 
-Databases was the final category that I made an enhancement for Quality Closet. 
+Databases was the final category that I made an enhancement for Quality Closet. For this category I had created a database for the inputs the user submits on Contact page to be saved. When making this enhancement made changes to multiple files as well as creating a MySQL database to the website. With this enhancement I needed to make proper changes to the JavaScript and PHP files, as they were not working properly. I ended up seeing a tutor that specialized in PHP, JavaScript and MySQL, with the help of my tutor I was able to see the typos and some of the general errors within my code. After the code was properly debugged it was then explained to me what had gone wrong within the code, which gave me a better understanding. I then created I file called admin.php where the data in the database can be seen.
 
 # Code Review
+
+
 
 # Course Outcomess
 
